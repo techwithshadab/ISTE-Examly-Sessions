@@ -1,0 +1,2 @@
+Hi, This is python session
+We are learning file handling
