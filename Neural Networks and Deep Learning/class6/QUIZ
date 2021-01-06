@@ -1,0 +1,50 @@
+1.In NLP while preprocessing why do we convert text to numbers before passing to machine learning model
+
+a)Numbers occupy less space than text
+b)ML models can only deal with numbers
+c)ML models can work faster on number
+d)Numbers are fixed while text is variable
+
+Answer :- b
+
+2.What is the following is not a preprocessing technique in NLP
+
+a)Tokenization
+b)Stemming
+c)Lemmatization
+d)Quantization
+
+Answer :- d
+
+3.Given the words and their representations
+Hello - [1, 0, 0, 0]
+World - [0, 1, 0, 0]
+How - [0, 0, 1, 0]
+You - [0, 0, 0, 1]
+What is the BOW representations of the below sentence
+Hello World How You Hello Hello You World
+
+a)[3, 2, 2, 1]
+b)[2, 3, 2, 1]
+c)[1, 1, 2, 3]
+d)[3, 3, 2, 1]
+
+Answer :- a
+
+4.Why we use n-grams than 1-gram
+
+a)To increase vocabulary
+b)To reduce model size
+c)To capture more surrounding context
+d)To capture bigger words
+
+Answer :- c
+
+5.What does term frequency mean
+
+a)Numbers of terms in the article
+b)Numbers of repetitions of word in a line/paragraph
+c)Number of articles/documents in which the word is present
+d)Frequency of nouns in an article
+
+Answer :- b

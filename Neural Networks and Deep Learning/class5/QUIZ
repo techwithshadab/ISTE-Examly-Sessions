@@ -1,0 +1,44 @@
+1.What did Vggnet introduce
+
+a)Relu activation
+b)Can handle multiple receptive fields simulatenously via multiple paths
+c)Standardized 3x3 convolutions
+d)Shortcut connectections for free flow of gradient
+
+Answer :- c
+
+2.What did Inception introduce
+
+a)Relu activation
+b)Can handle multiple receptive fields simulatenously via multiple paths
+c)Standardized 3x3 convolutions
+d)Shortcut connectections for free flow of gradient
+
+Answer :- b
+
+3.What did Resnet introduce
+
+a)Relu activation
+b)Can handle multiple receptive fields simulatenously via multiple paths
+c)Standardized 3x3 convolutions
+d)Shortcut connectections for free flow of gradient
+
+Answer :- d
+
+4.Why does Inception use 1x1 convolution before 3x3 or 5x5 convolution paths
+
+a)To not change shape
+b)To capture extra features
+c)To reduce the number of parameters
+d)To increase the receptive field
+
+Answer :- c
+
+5.Identify total number of parameters present in a filter which can do the transformation 64x64x9 -> 62x62x32
+
+a)2592
+b)2804
+c)2732
+d)2384
+
+Answer :- a

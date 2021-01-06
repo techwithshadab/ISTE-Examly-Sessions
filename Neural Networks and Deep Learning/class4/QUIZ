@@ -1,0 +1,44 @@
+1.Which of the following is not a regularization technique
+
+a)Dropout
+b)Batch Normalization
+c)Learning rate
+d)Image Augmentation
+
+Answer :- c
+
+2.What is not a property of dropout
+
+a)Drop random nodes in a network
+b)Increase the speed of training
+c)Combat overfitting
+d)Provide similar behavior to ensemble of neural networks
+
+Answer :- b
+
+3.When do we use label smoothing
+
+a)When labels are hard
+b)When we have less data
+c)When data is not always correctly labelled
+d)To improve the speed of training
+
+Answer :- c
+
+4.What is 1x1 convolution used for
+
+a)To find edges/shapes/gradients
+b)To reduce input size
+c)To find the most important feature in a region
+d)To reduce the number of channels
+
+Answer :- d
+
+5.How to combat limited dataset
+
+a)Image Augmentation
+b)BatchNorm
+c)Dropout
+d)Label smoothing
+
+Answer :- a

@@ -1,0 +1,44 @@
+1.Which of these is not an activation function
+
+a)Sigmoid
+b)Batch Norm
+c)Tanh
+d)Relu
+
+Answer :- b
+
+2.Which of the following are not true
+
+a)Different initialization in neural networks give different results
+b)Gradient descent is an iterative algorithm
+c)Neural networks converge to a global minimum within few epochs
+d)Learning rate is a hyperparameter
+
+Answer :- c
+
+3.Which of the following is an epoch
+
+a)When network completes going through the entire dataset of images once
+b)When network completes training
+c)When network completes going through an entire batch of images once
+d)When network completes going through a single image
+
+Answer :- a
+
+4.What is backpropagation
+
+a)When outputs are computed from inital layer to final layer
+b)When network weights are going to a previous version
+c)When network goes to a previous iteration
+d)When gradients are computed from final layer to initial layer
+
+Answer :- d
+
+5.Why we use mini-batch gradient descent instead of batch gradient descent
+
+a)To have a smooth error surface
+b)To reduce noise
+c)To deal with memory constraints
+d)To deal with underfitting
+
+Answer :- c
