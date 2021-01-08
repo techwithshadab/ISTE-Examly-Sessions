@@ -1,0 +1,94 @@
+Manufacturer,Model,Type,Price,MPG.city,AirBags,Horsepower,Passengers,Rear.seat.room,Luggage.room
+Acura,Integra,Small,15.9,25,Driver only,140,5,26.5,11
+Acura,Legend,Midsize,33.9,18,Driver & Passenger,200,5,30,15
+Audi,90,Compact,29.1,20,Driver only,172,5,28,14
+Audi,100,Midsize,37.7,19,Driver & Passenger,172,6,31,17
+BMW,535i,Midsize,30,22,Driver only,208,4,27,13
+Buick,Century,Midsize,15.7,22,Driver only,110,6,28,16
+Buick,LeSabre,Large,20.8,19,Driver only,170,6,30.5,17
+Buick,Roadmaster,Large,23.7,16,Driver only,180,6,30.5,21
+Buick,Riviera,Midsize,26.3,19,Driver only,170,5,26.5,14
+Cadillac,DeVille,Large,34.7,16,Driver only,200,6,35,18
+Cadillac,Seville,Midsize,40.1,16,Driver & Passenger,295,5,31,14
+Chevrolet,Cavalier,Compact,13.4,25,Driver only,110,5,25,13
+Chevrolet,Corsica,Compact,11.4,25,Driver only,110,5,26,14
+Chevrolet,Camaro,Sporty,15.1,19,Driver & Passenger,160,4,25,13
+Chevrolet,Lumina,Midsize,15.9,21,Driver only,110,6,28.5,16
+Chevrolet,Lumina_APV,Van,16.3,18,Driver only,170,7,30.5,
+Chevrolet,Astro,Van,16.6,15,,165,8,33.5,
+Chevrolet,Caprice,Large,18.8,17,Driver only,170,6,29.5,20
+Chevrolet,Corvette,Sporty,38,17,Driver only,300,2,,
+Chrylser,Concorde,Large,18.4,20,Driver & Passenger,153,6,31,15
+Chrysler,LeBaron,Compact,15.8,23,Driver & Passenger,141,6,30.5,14
+Chrysler,Imperial,Large,29.5,20,Driver only,147,6,36,17
+Dodge,Colt,Small,9.2,29,Driver only,92,5,26.5,11
+Dodge,Shadow,Small,11.3,23,Driver only,93,5,26.5,13
+Dodge,Spirit,Compact,13.3,22,Driver only,100,6,30.5,14
+Dodge,Caravan,Van,19,17,Driver only,142,7,26.5,
+Dodge,Dynasty,Midsize,15.6,21,Driver only,100,6,30.5,16
+Dodge,Stealth,Sporty,25.8,18,Driver only,300,4,20,11
+Eagle,Summit,Small,12.2,29,Driver only,92,5,26.5,11
+Eagle,Vision,Large,19.3,20,Driver & Passenger,214,6,30,15
+Ford,Festiva,Small,7.4,31,Driver only,63,4,26,12
+Ford,Escort,Small,10.1,23,Driver only,127,5,28,12
+Ford,Tempo,Compact,11.3,22,,96,5,27.5,13
+Ford,Mustang,Sporty,15.9,22,Driver only,105,4,24,12
+Ford,Probe,Sporty,14,24,Driver only,115,4,23,18
+Ford,Aerostar,Van,19.9,15,Driver only,145,7,30,
+Ford,Taurus,Midsize,20.2,21,Driver only,140,5,27.5,18
+Ford,Crown_Victoria,Large,20.9,18,Driver only,190,6,30,21
+Geo,Metro,Small,8.4,46,Driver only,55,4,27.5,10
+Geo,Storm,Sporty,12.5,30,Driver only,90,4,24.5,11
+Honda,Prelude,Sporty,19.8,24,Driver & Passenger,160,4,23.5,8
+Honda,Civic,Small,12.1,42,Driver only,102,4,28,12
+Honda,Accord,Compact,17.5,24,Driver & Passenger,140,4,28,14
+Hyundai,Excel,Small,8,29,Driver only,81,5,26,11
+Hyundai,Elantra,Small,10,22,Driver only,124,5,28,12
+Hyundai,Scoupe,Sporty,10,26,Driver only,92,4,23.5,9
+Hyundai,Sonata,Midsize,13.9,20,,128,5,31,14
+Infiniti,Q45,Midsize,47.9,17,Driver only,278,5,29,15
+Lexus,ES300,Midsize,28,18,Driver only,185,5,27.5,14
+Lexus,SC300,Midsize,35.2,18,Driver & Passenger,225,4,25,9
+Lincoln,Continental,Midsize,34.3,17,Driver & Passenger,160,6,30,19
+Lincoln,Town_Car,Large,36.1,18,Driver & Passenger,210,6,31.5,22
+Mazda,323,Small,8.3,29,Driver only,82,4,27,16
+Mazda,Protege,Small,11.6,28,,103,5,26.5,13
+Mazda,626,Compact,16.5,26,Driver only,164,5,29.5,14
+Mazda,MPV,Van,19.1,18,Driver & Passenger,155,7,27.5,
+Mazda,RX-7,Sporty,32.5,17,Driver only,255,2,,
+Mercedes-Benz,190E,Compact,31.9,20,Driver only,130,5,26,12
+Mercedes-Benz,300E,Midsize,61.9,19,Driver & Passenger,217,5,27,15
+Mercury,Capri,Sporty,14.1,23,Driver only,100,4,19,6
+Mercury,Cougar,Midsize,14.9,19,Driver only,140,5,28,15
+Mitsubishi,Mirage,Small,10.3,29,,92,5,26,11
+Mitsubishi,Diamante,Midsize,26.1,18,Driver only,202,5,27.5,14
+Nissan,Sentra,Small,11.8,29,Driver only,110,5,26,12
+Nissan,Altima,Compact,15.7,24,Driver only,150,5,28.5,14
+Nissan,Quest,Van,19.1,17,,151,7,27,
+Nissan,Maxima,Midsize,21.5,21,Driver only,160,5,28.5,14
+Oldsmobile,Achieva,Compact,13.5,24,,155,5,28,14
+Oldsmobile,Cutlass_Ciera,Midsize,16.3,23,Driver only,110,5,28,16
+Oldsmobile,Silhouette,Van,19.5,18,Driver & Passenger,170,7,30.5,
+Oldsmobile,Eighty-Eight,Large,20.7,19,Driver only,170,6,31.5,17
+Plymouth,Laser,Sporty,14.4,23,,92,4,24.5,8
+Pontiac,LeMans,Small,9,31,,74,4,25.5,17
+Pontiac,Sunbird,Compact,11.1,23,,110,5,25,13
+Pontiac,Firebird,Sporty,17.7,19,Driver & Passenger,160,4,25,13
+Pontiac,Grand_Prix,Midsize,18.5,19,Driver & Passenger,200,5,28.5,16
+Pontiac,Bonneville,Large,24.4,19,Driver & Passenger,170,6,30.5,18
+Saab,900,Compact,28.7,20,Driver only,140,5,26.5,14
+Saturn,SL,Small,11.1,28,Driver only,85,5,26.5,12
+Subaru,Justy,Small,8.4,33,,73,4,23.5,10
+Subaru,Loyale,Small,10.9,25,,90,5,27.5,15
+Subaru,Legacy,Compact,19.5,23,Driver only,130,5,27,14
+Suzuki,Swift,Small,8.6,39,,70,4,27.5,10
+Toyota,Tercel,Small,9.8,32,Driver only,82,5,24,11
+Toyota,Celica,Sporty,18.4,25,Driver only,135,4,23,13
+Toyota,Camry,Midsize,18.2,22,Driver only,130,5,28.5,15
+Toyota,Previa,Van,22.7,18,Driver only,138,7,35,
+Volkswagen,Fox,Small,9.1,25,,81,4,26,10
+Volkswagen,Eurovan,Van,19.7,17,Driver & Passenger,109,7,34,
+Volkswagen,Passat,Compact,20,21,Driver & Passenger,134,5,31.5,14
+Volkswagen,Corrado,Sporty,23.3,18,Driver & Passenger,178,4,26,15
+Volvo,240,Compact,22.7,21,Driver only,114,5,29.5,14
+Volvo,850,Midsize,26.7,20,Driver & Passenger,168,5,30,15
