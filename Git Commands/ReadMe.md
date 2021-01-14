@@ -3,7 +3,7 @@ git clone https://github.com/shadab-entrepreneur/ISTE-Examly-Sessions.git
 
 #### For Pulling Changes
 git fetch <br>
-git push
+git pull
 
 #### For Pushing Changes
 git add . <br>
