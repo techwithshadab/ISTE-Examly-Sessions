@@ -1,6 +1,7 @@
 # ISTE-Examly-Sessions
 
 ## Reading Materials:
+- [AI Roadmap](https://i.am.ai/roadmap/)
 - [Dive into Deep Learning](https://d2l.ai/index.html)
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
